@@ -48,7 +48,7 @@ def nine(n):
     color = str(n)
     print(" "*11, colored("*"*1, color))
 
-
+# this is main method
 
 def repeat():
     for j in b:
